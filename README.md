@@ -38,8 +38,7 @@ https://discussions.apple.com/thread/254429224
 https://discussions.apple.com/thread/253543565  
 https://discussions.apple.com/thread/7650610
 
-And many more...  
-https://www.google.com/search?q=disable+personal+hotspot+macos+content+filtering+site
+[And many more...](https://www.google.com/search?q=disable+personal+hotspot+macos+content+filtering+site%3Adiscussions.apple.com)
 
 ### Latest verified version
 
